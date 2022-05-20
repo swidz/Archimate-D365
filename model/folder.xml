@@ -1,0 +1,9 @@
+<archimate:ArchimateModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Microsoft Dynamics 365 Archimate"
+    id="id-be9129571dee4a85b2cf9e3cc239d8ad"
+    version="4.9.0">
+  <properties
+      key="Owner"
+      value="Sebastian Widz"/>
+</archimate:ArchimateModel>
